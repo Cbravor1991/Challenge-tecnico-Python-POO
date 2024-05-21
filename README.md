@@ -37,7 +37,7 @@ Por otro lado, la aplicación debería poder brindar la siguiente información:
 Bonús: Saber qué productos puede adquirir un usuario en base a su presupuesto.
 
 ## Aclaración
-El códdigo respeta la consigna y la logica. El mismo no ha sido probado, por lo cual puede tener algún bug o error en la sintaxis. Respeta la programación orientada a objetos.
+El código respeta la consigna y la logica. El mismo no ha sido probado, por lo cual puede tener algún bug o error en la sintaxis. Respeta la programación orientada a objetos.
 
 ## Posible mejoras
 Agregar tests para probar la logica y la consigna usando pytest
