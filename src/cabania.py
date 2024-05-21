@@ -1,7 +1,7 @@
 from src.casaDepartamento import CasaODepartamentos
 
 class Cabañas(CasaODepartamentos):
-    def __init__(self, direccion, cantidad_casas_alquilar, cantidad_ambientes= 0):
+    def __init__(self, direccion, cantidad_casas_alquilar, cantidad_ambientes=0):
         super().__init__(cantidad_ambientes, direccion)
         self.cantidad_casas_alquilar = cantidad_casas_alquilar
         self.casas_componen_cabañas = []
